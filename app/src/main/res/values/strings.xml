@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Film</string>
+    <string-array name="data_nama">
+        <item>AQUAMAN</item>
+        <item>BOBOIBOY</item>
+        <item>CALL</item>
+        <item>FROZEN</item>
+        <item>IMPERFECT</item>
+        <item>MARIPOSA</item>
+        <item>MILEA</item>
+        <item>SPONGEBOB</item>
+        <item>TERLALU TAMPAN</item>
+        <item>VENOM</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Film ini mengungkap asal-usul
+            Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut.
+            Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di 7samudera?</item>
+        <item>BoBoiBoy Movie 2 adalah sebuah film komedi pahlawan super animasi komputer Malaysia tahun 2019 garapan Nizam Razak. Film tersebut mengisahkan BoBoiBoy dan para temannya saat mereka berjuang melawan seorang penjahat kuno bernama Retak’ka yang ingin mengambil alih kekuatan BoBoiBoy.</item>
+        <item>The Call, juga dikenal sebagai Call, adalah film thriller Korea Selatan tahun 2020 yang disutradarai oleh Lee Chung-hyun, dibintangi oleh Park Shin-hye dan Jeon Jong-seo.</item>
+        <item>Frozen adalah film fantasi musikal animasi komputer 3D Amerika 2013 yang diproduksi oleh Walt Disney Animation Studios dan dirilis oleh Walt Disney Pictures. Film fitur animasi Disney ke-53, terinspirasi oleh dongeng Hans Christian Andersen "The Snow Queen". </item>
+        <item>Berkisah mengenai Rara (Jessica Mila) yang terlahir dengan gen gemuk dan kulit sawo matang, warisan sang ayah. Sementara, adiknya Lulu (Yasmin Napper) mengikuti gen ibu mereka Debby (Karina Suwandi) yang merupakan mantan peragawati tahun 1990-an. Rara sendiri bekerja sebagai manajer riset di sebuah perusahaan kosmetik. Meski mendapat perlakuan tidak menyenangkan dari lingkungan sekitar, namun Rara mencintai pekerjaannya. Untung ada Dika (Reza Rahadian), kekasih yang mencintai Rara apa adanya. Suatu hari, muncul peluang bagi Rara untuk naik jabatan di kantor, tapi bos Rara yakni KELVIN (Dion Wiyoko) mengharuskan Rara mengubah total penampilannya jika ia mau mengemban tanggung jawab baru ini. Berhasilkan Rara membuktikan dirinya?</item>
+        <item>Mariposa (Kupu-kupu) seperti kamu, aku mengejar tapi kamu menghindar. Begitulah gambaran sosok IQBAL GUANNA bagi NATASHA KAY LOOVY atau ACHA. Acha bertekad ingin mendapatkan hati Iqbal, seorang cowok cakep, pintar dan dikenal berhati dingin. Sahabat Acha, AMANDA, berusaha mencegah niat Acha untuk mendekati Iqbal. Amanda takut Acha akan terluka dan sakit hati.</item>
+        <item>Tidak ada kisah yang lebih Indah dari kisah cinta di SMA.Sama halnya dengan kisah cinta Dilan dan Milea.Dari yang awalnya benci hingga saling mencintai. Dari yang awalnya manis hingga menjadi rumit.Menjelang reuni akbar,Dilan memutuskan untuk menceritakan kembali masa-masa itu.</item>
+        <item>The SpongeBob Movie: Sponge on the Run adalah film komedi petualangan aksi-langsung/komputer-animasi Amerika yang akan datang berdasarkan serial animasi televisi SpongeBob SquarePants.</item>
+        <item>Witing Tresno Jalaran Soko Kulino alias KULIN (Ari Irham). Selama belasan tahun, Kulin yang terlahir terlalu tampan menghindari masuk ke sekolah reguler dan memilih menghabiskan hampir 100% hidupnya di dalam rumah</item>
+        <item>Seorang jurnalis, Eddie Brock (Tom Hardy) ingin melakukan sebuah investasi kasus terhadap penemuan yang dipimpin oleh Dr. Carlton Drake (Riz Ahmed). Karena investigasinya, Eddie mengunjungi lab milik Dr. Calrlton Drake. Semuanya ditujukan untuk membuktikan bahwa Dr. Carlton Drake sedang melakukan tindakan jahat menggunakan Symbiote.</item>
+    </string-array>
+    <array name="data_foto">
+        <item>@drawable/aquaman</item>
+        <item>@drawable/boboiboy</item>
+        <item>@drawable/call</item>
+        <item>@drawable/frozen</item>
+        <item>@drawable/imperfect</item>
+        <item>@drawable/mariposa</item>
+        <item>@drawable/milea</item>
+        <item>@drawable/spongebob</item>
+        <item>@drawable/terlalutampan</item>
+        <item>@drawable/venom</item>
+    </array>
+</resources>
